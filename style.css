@@ -14,10 +14,14 @@ ptext-align:center;
     background: #CCCCCC;
 }
 
-em strong {
-    color: #FF0000;
-    }
+#missão {
+font-size: 20px;
+}
 
-    #missão {
-        font-size: 20px;
-    }
+em strong {
+color: #FF0000;
+}
+
+.itens {
+font-style: italic;
+}
