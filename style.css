@@ -10,8 +10,9 @@ h1 {
 text-align: center;
 }   
 
-ptext-align:center;
-    background: #CCCCCC;
+p {
+text-align:center;
+background: #CCCCCC
 }
 
 #missão {
